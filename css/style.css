@@ -1,0 +1,42 @@
+.titulo{
+background-image: url("https://okdiario.com/img/2017/07/20/tela-roja.jpg");
+height: 100px;
+background-size: cover;
+}
+.bienvenidos{
+  font-size: 35px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  background-color: #1a1a1a;
+  color: white;
+}
+body{
+  background-color: #b13a3a;
+}
+header h1{
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  font-family: "Bernard MT Condensed";
+}
+.btn btn-primary{
+  background-color: red;
+}
+.formulario{
+  padding: 5px 5px 5px 20px;
+}
+.correo{
+  font-size: 200%;
+}
+.pieinicio{
+  background-color: black;
+  height: 60px;
+}
+.comentarios{
+  padding: 10px 10px 10px 20px;
+  background-color: white;
+}
+.fat{
+  font-size: 20px;
+  color: #b13a3a;
+}
